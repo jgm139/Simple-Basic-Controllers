@@ -14,6 +14,7 @@
 		C78F20F0236B5E1000ED2BB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C78F20EF236B5E1000ED2BB5 /* Assets.xcassets */; };
 		C78F20F3236B5E1000ED2BB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C78F20F1236B5E1000ED2BB5 /* LaunchScreen.storyboard */; };
 		C78F20FE236B5E1000ED2BB5 /* Simple_Basic_ControllersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C78F20FD236B5E1000ED2BB5 /* Simple_Basic_ControllersTests.swift */; };
+		C7C49D2A236C9F4600E5FC2B /* GestorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C49D29236C9F4600E5FC2B /* GestorPicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		C78F20F9236B5E1000ED2BB5 /* Simple-Basic-ControllersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Simple-Basic-ControllersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C78F20FD236B5E1000ED2BB5 /* Simple_Basic_ControllersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simple_Basic_ControllersTests.swift; sourceTree = "<group>"; };
 		C78F20FF236B5E1000ED2BB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7C49D29236C9F4600E5FC2B /* GestorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestorPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				C78F20E8236B5E0F00ED2BB5 /* SceneDelegate.swift */,
 				C78F20EA236B5E0F00ED2BB5 /* ViewController.swift */,
 				C78F20EC236B5E0F00ED2BB5 /* Main.storyboard */,
+				C7C49D29236C9F4600E5FC2B /* GestorPicker.swift */,
 				C78F20EF236B5E1000ED2BB5 /* Assets.xcassets */,
 				C78F20F1236B5E1000ED2BB5 /* LaunchScreen.storyboard */,
 				C78F20F4236B5E1000ED2BB5 /* Info.plist */,
@@ -203,6 +206,7 @@
 				C78F20EB236B5E0F00ED2BB5 /* ViewController.swift in Sources */,
 				C78F20E7236B5E0F00ED2BB5 /* AppDelegate.swift in Sources */,
 				C78F20E9236B5E0F00ED2BB5 /* SceneDelegate.swift in Sources */,
+				C7C49D2A236C9F4600E5FC2B /* GestorPicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
